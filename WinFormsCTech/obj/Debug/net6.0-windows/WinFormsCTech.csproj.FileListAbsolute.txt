@@ -1,0 +1,17 @@
+G:\source\repos\WinFormsCTech\WinFormsCTech\bin\Debug\net6.0-windows\WinFormsCTech.exe
+G:\source\repos\WinFormsCTech\WinFormsCTech\bin\Debug\net6.0-windows\WinFormsCTech.deps.json
+G:\source\repos\WinFormsCTech\WinFormsCTech\bin\Debug\net6.0-windows\WinFormsCTech.runtimeconfig.json
+G:\source\repos\WinFormsCTech\WinFormsCTech\bin\Debug\net6.0-windows\WinFormsCTech.dll
+G:\source\repos\WinFormsCTech\WinFormsCTech\bin\Debug\net6.0-windows\WinFormsCTech.pdb
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.csproj.AssemblyReference.cache
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.Form1.resources
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.csproj.GenerateResource.cache
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.GeneratedMSBuildEditorConfig.editorconfig
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.AssemblyInfoInputs.cache
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.AssemblyInfo.cs
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.csproj.CoreCompileInputs.cache
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.dll
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\refint\WinFormsCTech.dll
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.pdb
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\WinFormsCTech.genruntimeconfig.cache
+G:\source\repos\WinFormsCTech\WinFormsCTech\obj\Debug\net6.0-windows\ref\WinFormsCTech.dll
